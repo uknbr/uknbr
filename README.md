@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **pedro.pavan@linuxmail.org**
 
-- 📄 Know about my experiences [pedropavan.com.br](pedropavan.com.br)
+- 📄 Know about my experiences [pedropavan.com.br](https://pedropavan.com.br)
 
 - ⚡ Fun fact **I love old cars**
 
-- 👨‍💻 My project is available at [ukn.com.br](ukn.com.br)
+- 👨‍💻 My project is available at [ukn.com.br](https://ukn.com.br)
 
 
 <h3 align="left">Languages and Tools:</h3>
